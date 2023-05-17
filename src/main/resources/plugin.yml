@@ -1,0 +1,13 @@
+name: Dr4Familia
+version: '${project.version}'
+main: br.com.dr4gula.Dr4Familia
+author: [ Dr4gula ]
+api-version: 1.16
+commands:
+  familia:
+    description: Comando para abrir o menu de familias
+    permission: familia.menu
+
+  familiagivekey:
+    description: Comando para dar a key do spin de familias
+    permission: familia.givekey
