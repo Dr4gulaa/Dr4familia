@@ -14,7 +14,7 @@ Sistema de keys
 
 Spin de Familia de Demon slayer.
 
-https://github.com/Dr4gulaa/Dr4Bounty/assets/77586106/74530caf-33ef-4a6f-98a8-c023421df315
+https://github.com/Dr4gulaa/Dr4Bounty/assets/77586106/f0b95d06-43c4-4a5f-9406-15a35e0d9818
 
 
 ## 💼 Comandos
